@@ -1,2 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
+author:
+  name: vinodseb
+  email: "vinod.sabastian@gmail.com"
 
