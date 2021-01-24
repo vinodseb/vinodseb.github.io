@@ -1,4 +1,4 @@
-# Hello World
+# Random Linux Commands
 
 ### Purge Residual Configurations
 ```sh
